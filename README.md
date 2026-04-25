@@ -14,4 +14,4 @@ class Solution(object):
 
 # Screen Shot
 
-        <img width="1905" height="917" alt="image" src="https://github.com/user-attachments/assets/c6196edd-a534-4ec1-8a70-b0d1d58bad1c" />
+<img width="1905" height="917" alt="image" src="https://github.com/user-attachments/assets/8afa6a5b-5da2-487b-9f27-478865e0ba35" />
